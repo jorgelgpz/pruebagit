@@ -2,4 +2,6 @@ secuencia en prueba2
 git init
 git pull https://github.com/jorgelgpz/pruebagit.git 
 git add archivo.txt
-git commit -m 'segundo commit'
+git commit -m 'segundo commit en prueba2'
+git remote add origin https://github.com/jorgelgpz/pruebagit.git
+git push -u origin master
