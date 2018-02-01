@@ -5,3 +5,9 @@ git add archivo.txt
 git commit -m 'segundo commit en prueba2'
 git remote add origin https://github.com/jorgelgpz/pruebagit.git
 git push -u origin master
+
+tercer commit
+se modifico archivo.txt
+git add archivo.txt
+git commit -m 'tercer commit en prueba2'
+git push -u origin master
